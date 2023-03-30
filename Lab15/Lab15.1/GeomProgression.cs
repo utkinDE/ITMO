@@ -26,7 +26,7 @@ namespace Lab15._1
 
         public void setCommonRatio(int x)
         {
-            commonRatio = x;    
+            commonRatio = x;
         }
 
         public int getNext()
@@ -35,8 +35,8 @@ namespace Lab15._1
 
             for (int i = 0; i < stepCount; i++)
             {
-                
-                result = currentNumber*commonRatio;
+
+                result = currentNumber * commonRatio;
                 currentNumber = result;
                 break;
             }
@@ -50,8 +50,8 @@ namespace Lab15._1
 
             for (int i = 0; i < stepCount; i++)
             {
-                
-                result[i] = currentNumber*commonRatio;
+
+                result[i] = currentNumber * commonRatio;
                 currentNumber = result[i];
             }
 

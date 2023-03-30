@@ -9,7 +9,7 @@ namespace Lab15._1
     interface ISeries
     {
         void setStart(int x);
-        int [] getNextNumbersArray();
+        int[] getNextNumbersArray();
         void reset();
     }
 }

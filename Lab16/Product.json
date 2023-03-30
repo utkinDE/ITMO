@@ -1,0 +1,27 @@
+[
+  {
+    "ProductCode": 1,
+    "Name": "Яблоко",
+    "Cost": 5.4000000000000004
+  },
+  {
+    "ProductCode": 2,
+    "Name": "Апельсин",
+    "Cost": 12.25
+  },
+  {
+    "ProductCode": 3,
+    "Name": "Арбуз",
+    "Cost": 100
+  },
+  {
+    "ProductCode": 4,
+    "Name": "Банан",
+    "Cost": 13.9
+  },
+  {
+    "ProductCode": 5,
+    "Name": "Груша",
+    "Cost": 10.1
+  }
+]
